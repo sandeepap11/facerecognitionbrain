@@ -1,0 +1,20 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 5px;
+}
+
+.sign-out {
+  font-size: 3;
+  color: black;
+  text-decoration: underline;
+  padding: 3px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: right;
+}
+
+.sign-out:hover {
+
+  color: gray;
+}
